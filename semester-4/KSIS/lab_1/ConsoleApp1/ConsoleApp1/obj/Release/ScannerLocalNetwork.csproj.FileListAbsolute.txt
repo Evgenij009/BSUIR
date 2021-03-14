@@ -1,0 +1,7 @@
+P:\4_session_\КСиС\labs\lab_1\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+P:\4_session_\КСиС\labs\lab_1\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe
+P:\4_session_\КСиС\labs\lab_1\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+P:\4_session_\КСиС\labs\lab_1\ConsoleApp1\ConsoleApp1\obj\Release\ScannerLocalNetwork.csprojAssemblyReference.cache
+P:\4_session_\КСиС\labs\lab_1\ConsoleApp1\ConsoleApp1\obj\Release\ScannerLocalNetwork.csproj.CoreCompileInputs.cache
+P:\4_session_\КСиС\labs\lab_1\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.exe
+P:\4_session_\КСиС\labs\lab_1\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.pdb
